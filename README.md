@@ -1,10 +1,10 @@
-# t
+# Super Readme.md Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
-t
+It helps to create a high quality readme.md for github project.
 
 ## Table of Contents
 
@@ -18,27 +18,27 @@ t
 
 ## Installation
 
-t
+Download, and read the command, please remember this is a node.js project
 
 ## Usage
 
-t
+N/A
 
 ## License
 
-This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is covered under the [Apache 2.0](https://opensource.org/licenses/Apache-2.0) license.
 
 ## Contributing
 
-t
+Sole project by AttackOnBaron
 
 ## Tests
 
-t
+Run it and answer the questions
 
 ## Questions
 
 For any additional questions, please reach out to me via GitHub or email:
 
-GitHub: [t](https://github.com/t) <br />
-Email: t
+GitHub: [AttackOnBaron-BC](https://github.com/AttackOnBaron-BC) <br />
+Email: Attackonbaron@github.io
